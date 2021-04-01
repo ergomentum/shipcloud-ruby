@@ -1,15 +1,17 @@
 ## [Unreleased]
 ### Added
+- Added missing `frozen_string_literal: true` magic comments to files
 
 ### Changed
-- `rubocop` version is specified to be `~> 1.8.1`
-- `rubocop-performance` version is specified to be `~> 1.7.0`
+- Changed `rubocop` version specification to `~> 1.8.1`
+- Changed `rubocop-performance` version specification to `~> 1.7.0`
 
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+- Fixed rubocop styling issues
 
 ### Security
 
